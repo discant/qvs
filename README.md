@@ -1,4 +1,0 @@
-qvs
-===
-
-Quiz voor school
